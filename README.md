@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### 🔭 I’m currently taking Software Development Process, Web Programming II, Operating Systems, Concurrent Programming (Spring 2023)
-### 🌱 My two projects on my resume are starred
-### 💬 Ask me about any of my previous courses/projects and I would be happy to share a folder. I only have public repositories of older classes for academic reasons.
+### 🌱 I’m currently learning React
+### 📖 My two projects on my resume are starred
+### 💬 Ask me about any of my previous courses/projects and I would be happy to share work from that course. I only have public repositories of older classes for academic reasons.
 ### 📫 How to reach me: dmtran20@gmail.com
 
 
