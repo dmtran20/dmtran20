@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently taking Software Development Process, Web Programming II, Operating Systems, Concurrent Programming (Spring 2023)
 ### 🌱 I’m currently learning React
-### 📖 My two projects on my resume are starred
+### 📖 My main two projects on my resume are starred (cs-546-fitness-app and CS555-TEAM4-MOSS)
 ### 💬 Ask me about any of my previous courses/projects and I would be happy to share work from that course. I only have public repositories of older classes for academic reasons.
 ### 📫 How to reach me: dmtran20@gmail.com
 
