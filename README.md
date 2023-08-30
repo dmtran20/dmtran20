@@ -1,4 +1,4 @@
-# Dylan Here
+# 👋 Hi there!
 
 ## 📖 Current Courses
 ### 🔭 I’m currently taking Senior Design, Discrete Math in Cryptography, and Intro to Web Programming and Project Development(a third Web Dev course to explore more Project Development 
