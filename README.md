@@ -10,7 +10,7 @@
 ### -**[CS555-TEAM4-MOSS](https://github.com/ColleenQue/Word-Boss)**: [Demo](https://www.youtube.com/watch?v=lzh_2Tx7Lj4)
 
 
-## 💬 I would be happy to share previous Courses. I only have public repositories of older classes for academic reasons.
+## 💬 I would be happy to share previous courses. I only have public repositories of older classes for academic reasons.
 ### 🌱 Past Courses:
 ### Introduction to Computer Science, Discrete Structures, Data Structures, Probability and Statistics, Algorithms, Computer Architecture and Organization, Engineering Economics, Linear Algebra, Systems Programming, Principles of Programming Languages, Human-Computer Interaction, Database Management, Agile Methods for Software Dev, Web Programming I, and Web Programming II
 
