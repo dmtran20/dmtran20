@@ -1,5 +1,5 @@
 # 👋 Hi there!
-###  My name is Dylan and I am a senior at Stevens Institute of Technology pursuing a bachelor's degree in Computer Science with a minor in Cybersecurity. 
+- ###  My name is Dylan and I am a senior at Stevens Institute of Technology pursuing a bachelor's degree in Computer Science with a minor in Cybersecurity. 
 
 ## 📖 **Current Courses**
 - ### 🔭 I’m currently taking Senior Design, Discrete Math in Cryptography, and Intro to Web Programming and Project Development(a third Web Dev course to explore more Project Development 
