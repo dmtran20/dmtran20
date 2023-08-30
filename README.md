@@ -1,6 +1,5 @@
 # 👋 Hi there!
 ##  My name is Dylan and I am a senior at Stevens Institute of Technology pursuing a bachelor's degree in Computer Science with a minor in Cybersecurity. 
-### 📫 Feel free to reach me at dmtran20@gmail.com 
 
 ## 📖 Current Courses
 ### 🔭 I’m currently taking Senior Design, Discrete Math in Cryptography, and Intro to Web Programming and Project Development(a third Web Dev course to explore more Project Development 
@@ -15,6 +14,8 @@
 ## 💬 I would be happy to share previous courses. I only have public repositories of older classes for academic reasons.
 ### 🌱 Past Courses:
 ### Introduction to Computer Science, Discrete Structures, Data Structures, Probability and Statistics, Algorithms, Computer Architecture and Organization, Engineering Economics, Linear Algebra, Systems Programming, Principles of Programming Languages, Human-Computer Interaction, Database Management, Agile Methods for Software Dev, Web Programming I, and Web Programming II
+
+### 📫 Feel free to reach me at dmtran20@gmail.com 
 
 
 
