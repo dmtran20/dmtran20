@@ -1,7 +1,13 @@
-### Hi there 👋
-### 🔭 I’m currently taking Software Development Process, Web Programming II, Operating Systems, Concurrent Programming (Spring 2023)
-### 🌱 I’m currently learning React, Concurrent Progamming, and Software Processes
-### 📖 My most proud projects on my resume are starred (cs-546-fitness-app and CS555-TEAM4-MOSS)
+## Hi there 👋
+### 🔭 I’m currently taking Senior Design, Discrete Math in Cryptography, and Intro to Web Programming and Project Development(a third Web Dev course to further explore Project Development)
+### 🌱 
+
+## 📖 My most proud projects:
+### **[CS 546-fitness-app](https://github.com/ronduma/cs-546-fitness-app)** [Demo](https://www.youtube.com/watch?v=kSVMA_uKhJA) 
+### **[CS 554 TRVL](https://github.com/ronduma/cs-554-trvl)** [Demo](https://www.youtube.com/watch?v=P-eJklQ-DpM) 
+### **[CS555-TEAM4-MOSS](https://github.com/ColleenQue/Word-Boss)** [Demo](https://www.youtube.com/watch?v=lzh_2Tx7Lj4)]
+
+
 ### 💬 Ask me about any of my previous or current courses/projects and I would be happy to share work from that course. I only have public repositories of older classes for academic reasons.
 ### 📫 How to reach me: dmtran20@gmail.com
 
