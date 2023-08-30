@@ -1,18 +1,17 @@
 # Dylan Here
 
-## Current Courses
-### 🔭 I’m currently taking Senior Design, Discrete Math in Cryptography, and Intro to Web Programming and Project Development(a third Web Dev course to explore more Project Development
-### 🌱 
+## 📖 Current Courses
+### 🔭 I’m currently taking Senior Design, Discrete Math in Cryptography, and Intro to Web Programming and Project Development(a third Web Dev course to explore more Project Development 
 
 
-## 📖 Proud Projects and Demos
+## 🧑‍💻 Proud Projects and Demos
 ### -**[CS 546-fitness-app](https://github.com/ronduma/cs-546-fitness-app)**: [Demo](https://www.youtube.com/watch?v=kSVMA_uKhJA) 
 ### -**[CS 554 TRVL](https://github.com/ronduma/cs-554-trvl)**: [Demo](https://www.youtube.com/watch?v=P-eJklQ-DpM) 
 ### -**[CS555-TEAM4-MOSS](https://github.com/ColleenQue/Word-Boss)**: [Demo](https://www.youtube.com/watch?v=lzh_2Tx7Lj4)
 
 
 ## 💬 I would be happy to share previous Courses. I only have public repositories of older classes for academic reasons.
-### Past Courses:
+### 🌱 Past Courses:
 ### Introduction to Computer Science, Discrete Structures, Data Structures, Probability and Statistics, Algorithms, Computer Architecture and Organization, Engineering Economics, Linear Algebra, Systems Programming, Principles of Programming Languages, Human-Computer Interaction, Database Management, Agile Methods for Software Dev, Web Programming I, and Web Programming II
 
 ### 📫 How to reach me: dmtran20@gmail.com
