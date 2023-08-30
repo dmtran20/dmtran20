@@ -6,9 +6,9 @@
 
 
 ## 🧑‍💻 **Proud Projects and Demos**
-### -**[CS 546-fitness-app:](https://github.com/ronduma/cs-546-fitness-app)** [Demo](https://www.youtube.com/watch?v=kSVMA_uKhJA) 
-### -**[CS 554 TRVL:](https://github.com/ronduma/cs-554-trvl)** [Demo](https://www.youtube.com/watch?v=P-eJklQ-DpM) 
-### -**[CS555-TEAM4-MOSS:](https://github.com/ColleenQue/Word-Boss)** [Demo](https://www.youtube.com/watch?v=lzh_2Tx7Lj4)
+### - **[CS 546-fitness-app:](https://github.com/ronduma/cs-546-fitness-app)** [Demo](https://www.youtube.com/watch?v=kSVMA_uKhJA) 
+### - **[CS 554 TRVL:](https://github.com/ronduma/cs-554-trvl)** [Demo](https://www.youtube.com/watch?v=P-eJklQ-DpM) 
+### - **[CS555-TEAM4-MOSS:](https://github.com/ColleenQue/Word-Boss)** [Demo](https://www.youtube.com/watch?v=lzh_2Tx7Lj4)
 
 
 ## **🌱 Past Courses**
