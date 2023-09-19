@@ -2,13 +2,13 @@
 - ###  My name is Dylan and I am a senior at Stevens Institute of Technology pursuing a bachelor's degree in Computer Science with a minor in Cybersecurity. 
 
 ## 📖 **Current Courses**
-- ### 🔭 I’m currently taking Senior Design, Discrete Math in Cryptography, and Intro to Web Programming and Project Development(a third Web Dev course to explore more Project Development 
+- ### 🔭 I’m currently taking Senior Design, Discrete Math in Cryptography, and Intro to Web Programming and Project Development(a third Web Dev course to explore more Project Development). 
 
 
 ## 🧑‍💻 **Proud Projects and Demos**
-- ### **[CS 546 JimBro:](https://github.com/ronduma/cs-546-fitness-app)** [Demo](https://www.youtube.com/watch?v=kSVMA_uKhJA) 
-- ### **[CS 554 TRVL:](https://github.com/ronduma/cs-554-trvl)** [Demo](https://www.youtube.com/watch?v=P-eJklQ-DpM) 
-- ### **[CS555 Word Boss:](https://github.com/ColleenQue/Word-Boss)** [Demo](https://www.youtube.com/watch?v=lzh_2Tx7Lj4)
+- ### **[CS 546(Web Dev I) JimBro:](https://github.com/ronduma/cs-546-fitness-app)** [Demo](https://www.youtube.com/watch?v=kSVMA_uKhJA) 
+- ### **[CS 554(Web Dev II) TRVL:](https://github.com/ronduma/cs-554-trvl)** [Demo](https://www.youtube.com/watch?v=P-eJklQ-DpM) 
+- ### **[CS555(Agile Methods for Software Eng) Word Boss:](https://github.com/ColleenQue/Word-Boss)** [Demo](https://www.youtube.com/watch?v=lzh_2Tx7Lj4)
 
 
 ## **🌱 Past Courses**
